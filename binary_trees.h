@@ -35,5 +35,7 @@ void binary_tree_delete_recursive(binary_tree_t *tree);
 void binary_tree_delete(binary_tree_t *tree);
 int binary_tree_is_leaf(const binary_tree_t *node);
 int binary_tree_is_root(const binary_tree_t *node);
+void preorder_recursive(const binary_tree_t *tree, void (*func)(int));
+void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int));
 
 #endif
