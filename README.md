@@ -35,8 +35,6 @@ This project provides a set of C programs and modules for working with binary tr
 
 - **Binary Trees**
 - **Binary Search Trees (BST)**
-- **AVL Trees** (if available)
-- **Heaps** (if available)
 
 ## Getting Started
 
