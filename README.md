@@ -1,5 +1,9 @@
 # Binary Trees
 
+![C Language](https://img.shields.io/badge/Language-C-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+[![Documentation Status](https://readthedocs.org/projects/binary-trees/badge/?version=latest)](https://binary-trees.readthedocs.io/en/latest/?badge=latest)
+
 A comprehensive project for learning, implementing, and experimenting with binary trees and related data structures in C.
 
 ## Table of Contents
