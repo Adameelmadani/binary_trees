@@ -29,7 +29,6 @@ This project provides a set of C programs and modules for working with binary tr
 - Calculate tree properties (height, depth, size, leaf count, etc.)
 - Check if a tree is balanced, full, perfect, or a BST
 - Find ancestors, siblings, and uncles
-- Implementations for binary search trees (BST), AVL trees, and heaps (if included)
 
 ## Data Structures Implemented
 
